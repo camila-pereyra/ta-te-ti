@@ -1,0 +1,21 @@
+.score-board{
+    width: 340px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.score-board div{
+    width: 50%;
+    padding: 5px;
+    text-align: center;
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+}
+.scoreX{
+    background-color: #CD493A;
+}
+.scoreO{
+    background-color: #4392F1;
+}
